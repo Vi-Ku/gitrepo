@@ -21,7 +21,8 @@ Before this i have some to do to finish:
 - [ ] i don't know
 - [x] all good
   
-@vi-ku how are you doing??? :+1:
+@vi-ku how are you doing??? :+1:\
+# [Mail](mpd18i027@iiitdm.ac.in)
 this is my first Github commit [files](1.txt)
 
 Now let's try to code somethins.\
