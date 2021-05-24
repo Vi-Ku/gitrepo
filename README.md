@@ -21,13 +21,14 @@ Before this i have some to do to finish:
 - [ ] i don't know
 - [x] all good
   
-@rad-mit how are you doing??? :+1:
+@vi-ku how are you doing??? :+1:
 this is my first Github commit [files](1.txt)
 
 Now let's try to code somethins.\
 `sudo apt get-upgrade`
 
-`sudo apt-get update`
+`sudo apt-get update` 
+
 ---
 > **NEVER HESITATE TO EXPRESS YOURSELF**
 > > I don't know what should i write in this.
@@ -43,7 +44,7 @@ return success
 
 ```
 
-| NAME | ROLL NO|SOMETHING|
+| NAME mei kya rakha h | ROLL NO to chityapa h|SOMETHING|
 |:-----|:-------:|----:|
 |ABCD|MDPDCNA|VAKVNA|
 
