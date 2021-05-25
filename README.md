@@ -49,3 +49,6 @@ return success
 |:-----|:-------:|----:|
 |ABCD|MDPDCNA|VAKVNA|
 
+>Feedback is crucial so please try to incorporate a closed loop feedback in some aspects of your life where it is possible
+
+![Feedback is important](feedback.jpg)
